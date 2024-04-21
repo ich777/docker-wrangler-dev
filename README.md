@@ -1,4 +1,4 @@
-# Wrangler in Docker optimized for Unraid
+# Wrangler DEV in Docker optimized for Unraid
 This container runs Cloudflares Wrangler workers in Docker.
 
 By default this container is configured to not start the Wrangler worker to be able to deploy your project first in the container and then run it locally instead of on Cloudflares Server infrastructure through `wrangler dev`.
